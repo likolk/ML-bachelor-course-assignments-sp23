@@ -1,7 +1,7 @@
-# ML-bachelor-course-assignments-sp22
-Assignments for the Machine Learning bachelor course @ USI SP 22
+# ML-bachelor-course-assignments-sp23
+Assignments for the Machine Learning bachelor course @ USI SP 23
 
-This repository contains the assignments for the Machine Learning Bachelor Course for the Spring 2022 semester.
+This repository contains the assignments for the Machine Learning Bachelor Course for the Spring 2023 semester.
 
 ## Course Information
 
