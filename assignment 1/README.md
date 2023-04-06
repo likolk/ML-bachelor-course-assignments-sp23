@@ -25,7 +25,7 @@ Consider any family of non-linear models of your choice to address the above reg
 
 ### T3. (Bonus)
 
-In the [GitHub repository of the course](https://github.com/GiorgiaAuroraAdorni/ML-bachelor-course-assignments-sp23), you will find a trained Scikit-learn model that we built using the same dataset you are given. This _baseline_ model can achieve an MSE of **0.803** when evaluated on the test set.
+In the [GitHub repository of the course](https://github.com/GiorgiaAuroraAdorni/ML-bachelor-course-assignments-sp23), you will find a trained Scikit-learn model that we built using the same dataset you are given. This _baseline_ model can achieve an MSE of **0.7803** when evaluated on the test set.
 You will get extra points if you provide a model of your choice whose test performance is **better** (i.e., the MSE is lower) than ours. Of course, you must also tell us **why** your model is performing better.
 
 
