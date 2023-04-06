@@ -81,7 +81,7 @@ Motivate your answers.
 
 Consider the classification problem shown in the picture below and answer each point.
 
-<img src="./im.png" style="width:200px"/>
+<img src="./im.png" style="width:500px"/>
 
 1. Your boss asked you to solve the problem using a perceptron, and now he's upset because you are getting poor results. How would you justify the poor performance of your perceptron classifier to your boss?
 2. Would you expect better luck with a neural network with the activation function `h(x) = - x * e^(-2)` for the hidden units?
